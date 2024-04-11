@@ -1,7 +1,7 @@
 {
   "name": "@aquila-learning/vue-tables-2-premium",
   "description": "Aquila Learning Vue.js 2 grid components",
-  "version": "1.0.0",
+  "version": "2.3.6",
   "keywords": [
     "vue2",
     "vuex",
