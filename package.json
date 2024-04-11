@@ -1,7 +1,7 @@
 {
   "name": "@aquila-learning/vue-tables-2-premium",
   "description": "Aquila Learning Vue.js 2 grid components",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "keywords": [
     "vue2",
     "vuex",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/matfish2/vue-tables-2-private"
+    "url": "https://github.com/AquilaLearning/vue-tables-2-private"
   },
   "files": [
     "compiled",
