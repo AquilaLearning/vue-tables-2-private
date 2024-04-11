@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://www.npmjs.com/package/@aquila-learning/vue-tables-2-premium"
+    "url": "https://github.com/AquilaLearning/vue-tables-2-private"
   },
   "files": [
     "compiled",
